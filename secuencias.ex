@@ -1,0 +1,5 @@
+IO.puts("1. este es el mensaje")
+IO.puts("2. este es un \n mensaje")
+IO.puts("3. este es un \"mensaje\"")
+IO.puts("4. este es un \\mensaje\\")
+IO.puts("5. este \t ese \tun \t mensaje")
